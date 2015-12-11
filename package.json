@@ -1,7 +1,7 @@
 {
   "name": "hubot-bing-images",
   "description": "Searches for images using the best search engine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Altmetric LLP <infrastructure@altmetric.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
