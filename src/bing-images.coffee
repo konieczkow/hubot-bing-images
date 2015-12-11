@@ -32,4 +32,4 @@ imageMe = (msg, query, cb) ->
         image = msg.random images
         cb image.MediaUrl
       catch error
-        msg.send "Oops. I had trouble searching '#{query}'. Try later."
+        cb "Oops. I had trouble searching '#{query}'. Try later."
